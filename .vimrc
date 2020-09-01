@@ -7,9 +7,9 @@ set ruler
 syntax on
 set tabstop=4
 set showmatch
-	
 
-
+" always use mouse
+set mouse=a	
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
