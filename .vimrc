@@ -7,6 +7,10 @@ set ruler
 syntax on
 set tabstop=4
 set showmatch
+" 打开高亮
+set hlsearch
+colorscheme desert
+set backspace=indent,eol,start
 
 " always use mouse
 set mouse=a	
